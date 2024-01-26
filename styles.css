@@ -3,12 +3,12 @@ body{
     }
     
     h1{
-        text-align: center;
+        text-align: topcenter;
         font-size: 60px;
         color: #ffffff;
     }
     p{
-        text-align: topcenter;
+        text-align: center;
         font-family: 'Lucida Console', "Lucida Console", monospace;
     }
     .pholder{
