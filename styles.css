@@ -1,13 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #ffffff;
+    }
+.text{
+    padding-left: 20px;
+    }
+
 body{
     background-color: #c78df7;
     }
     
-    h1{
-        text-align: center;
-        font-size: 60px;
-        color: #ffffff;
+
+p{
+    text-align: center;
+    font-family: 'Lucida Console', "Lucida Console", monospace;
     }
-    p{
-        text-align: center;
-        font-family: 'Lucida Console', "Lucida Console", monospace;
-    }
+
