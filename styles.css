@@ -3,13 +3,12 @@
     align-items: center;
     justify-content: center}
 
-h1{
+
+.text{
     text-align: center;
     font-size: 60px;
-    color: #ffffff;
-    }
-.text{
     padding-left: 20px;
+    color: #ffffff;
     }
 
 body{
