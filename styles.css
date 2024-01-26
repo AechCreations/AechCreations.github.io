@@ -8,7 +8,7 @@ body{
         color: #ffffff;
     }
     p{
-        text-align: center;
+        text-align: topcenter;
         font-family: 'Lucida Console', "Lucida Console", monospace;
     }
     .pholder{
