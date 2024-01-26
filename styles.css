@@ -1,13 +1,17 @@
-.container {
+.intpage {
     display: flex;
     align-items: center;
     justify-content: center}
 
+.Image{
+    float: left;
 
+}
 .text{
     text-align: center;
     font-size: 60px;
     padding-left: 20px;
+    float: left;
     color: #ffffff;
     }
 
