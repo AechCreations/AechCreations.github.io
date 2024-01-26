@@ -11,6 +11,14 @@ body{
         text-align: center;
         font-family: 'Lucida Console', "Lucida Console", monospace;
     }
-    #hbtn:hover {
+    #hbtn {
+        background-image: url('Imagess/pholdr.png');
+        height: 132px;
+        width: 132px;
+     }
+     
+     #Library:hover {
         background-image: url('Imagess/pholdr2.png');
-    }
+        height: 132px;
+        width: 132px;
+     }
