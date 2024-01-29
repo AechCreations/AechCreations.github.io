@@ -5,9 +5,11 @@
 
 .Image{
     float: left;
-    object-position: 30px;
-
 }
+div.Image{
+    right: 30px;
+}
+
 .text{
     text-align: center;
     font-size: 60px;
