@@ -5,7 +5,7 @@
 
 .Image{
     float: left;
-    padding-right: 30px
+    object-position: 30px;
 
 }
 .text{
