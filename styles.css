@@ -5,12 +5,12 @@
 
 .Image{
     float: left;
+    padding-left: 30px
 
 }
 .text{
     text-align: center;
     font-size: 60px;
-    padding-left: 20px;
     float: left;
     color: #ffffff;
     }
