@@ -24,5 +24,5 @@ p{
     font-family: 'Lucida Console', "Lucida Console", monospace;
     }
 h1{
-    border-bottom: 7px black;
+    border-bottom: 7px solid black;
 }
