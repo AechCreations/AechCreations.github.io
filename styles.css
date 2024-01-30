@@ -1,16 +1,15 @@
 .intpage {
     display: flex;
-    justify-content: center}
+}
 
 .Image{
-    float: left;
-
+    margin: 0 10px;
 }
-.text{
+.Text{
     text-align: center;
     font-size: 60px;
     margin-left: 70px;
-    float: left;
+    width:85%;
     color: #ffffff;
     }
 
