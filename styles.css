@@ -15,8 +15,21 @@
 
     }
 
+.bttns{
+    border-bottom: 7px solid black;
+}
+.b1{
+    text-align: left;
+    background-color: #ad77d9;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
 body{
-    background-color: #c78df7;
+    background-color: #ad77d9;
     }
     
 
