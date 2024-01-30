@@ -11,7 +11,6 @@
     margin-right: 150px;
     width:85%;
     color: #ffffff;
-    border-bottom: 7px black;
 
     }
 
@@ -24,4 +23,6 @@ p{
     text-align: center;
     font-family: 'Lucida Console', "Lucida Console", monospace;
     }
-
+h1{
+    border-bottom: 7px black;
+}
