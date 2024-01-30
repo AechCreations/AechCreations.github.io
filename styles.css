@@ -16,7 +16,7 @@
     }
 
 .bttns{
-    
+    display: flex;
     border-bottom: 7px solid black;
 }
 .b1{
@@ -43,7 +43,7 @@ margin-bottom: 10px;
     text-decoration: none;
     display: inline-block;
     }
-    
+
 margin-top: 10px;
 margin-bottom: 10px;
 }
