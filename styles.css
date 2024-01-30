@@ -20,12 +20,11 @@
     border-bottom: 7px solid black;
 }
 .b1{
-    a:link, a:visited {
     text-align: left;
+    a:link, a:visited {
     background-color: #000;
     color: white;
     padding: 14px 25px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     }
@@ -34,8 +33,8 @@ margin-bottom: 10px;
 }
 
 .b2{
-    a:link, a:visited {
     text-align: center;
+    a:link, a:visited {
     background-color: #000;
     color: white;
     padding: 14px 25px;
