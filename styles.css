@@ -16,9 +16,11 @@
     }
 
 .bttns{
+    
     border-bottom: 7px solid black;
 }
 .b1{
+    a:link, a:visited {
     text-align: left;
     background-color: #ad77d9;
     color: white;
@@ -26,6 +28,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    }
 }
 
 body{
