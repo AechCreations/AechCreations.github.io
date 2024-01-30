@@ -33,6 +33,21 @@ margin-top: 10px;
 margin-bottom: 10px;
 }
 
+.b2{
+    a:link, a:visited {
+    text-align: center;
+    background-color: #000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+    
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
 body{
     background-color: #ad77d9;
     }
