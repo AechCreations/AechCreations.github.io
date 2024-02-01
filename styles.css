@@ -25,7 +25,7 @@
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 25px 75px;
+        padding: 14px 25px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
@@ -40,7 +40,7 @@
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 25px 75px;
+        padding: 14px 25px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
@@ -55,13 +55,13 @@
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 25px 75px;
+        padding: 14px 25px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
     margin-bottom: 10px;
     }
-    margin-right: 20px;
+
     font-size: 30px;
     text-align: center;
 }
