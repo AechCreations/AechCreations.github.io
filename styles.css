@@ -18,7 +18,7 @@
 .bttns{
     display: grid;
   grid-template-columns: auto auto auto;
-  padding: 10px;
+  padding: 5px;
     border-bottom: 7px solid black;
 }
 .b1{
