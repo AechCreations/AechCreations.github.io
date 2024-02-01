@@ -18,14 +18,13 @@
 .bttns{
     display: grid;
   grid-template-columns: auto auto auto;
-  padding: 5px;
     border-bottom: 7px solid black;
 }
 .b1{
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 14px 25px;
+        padding: 10px 20px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
@@ -40,7 +39,7 @@
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 14px 25px;
+        padding: 10px 20px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
@@ -55,7 +54,7 @@
     a:link, a:visited {
         background-color: #000;
         color: white;
-        padding: 14px 25px;
+        padding: 10px 20px;
         text-decoration: none;
         display: inline-block;
     margin-top: 10px;
