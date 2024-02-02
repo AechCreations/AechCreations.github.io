@@ -82,12 +82,12 @@ body{
 .bodybox {
     text-align: center;
     background-color: #d19dfc;
-    width: 95%;
+    width: 100%;
     border: 5px solid black;
     border-radius: 7px;
     padding: 10px;
     margin-left: 20px;
-    margin-right: 10px;
+    margin-right: 20px;
     margin-top: 20px;
           
   }
