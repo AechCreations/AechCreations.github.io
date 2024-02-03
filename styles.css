@@ -6,11 +6,12 @@
 
 .Image{
     margin: 0 10px;
+    width : 12%;
 }
 .Ttext{
     text-align: center;
     font-size: 30px;
-    margin-right: 110px;
+    margin-left: 70px;
     width:85%;
     color: #ffffff;
 
