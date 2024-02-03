@@ -75,8 +75,13 @@
 
 body{
     background-color: #ad77d9;
-    margin: 0px;
     background-image: url(Imagess/bgroundcats.png);
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 1440px;
+    min-height: 100vh;
+
     }
 
 .bodybox {
