@@ -13,8 +13,11 @@
     margin-right: 110px;
     width:85%;
     color: #ffffff;
-    font-family: Cthulumbus;
-    src: url("../AechCreations.github.io/Fonts/Titlefont.ttf") format('truetype');
+    @font-face {
+        font-family: Cthulumbus;
+        src: url("AechCreations.github.io/Fonts/Titlefont.ttf") format('truetype');
+        font-style: normal;
+    }
 
     }
 
