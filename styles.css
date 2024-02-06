@@ -1,7 +1,7 @@
 .intpage {
     display: flex;
     border-bottom: 7px solid #4A3E94;
-
+    background-color: #d19dfc;
 }
 
 .Image{
