@@ -13,71 +13,96 @@
     margin-right: 110px;
     width:85%;
     color: #ffffff;
-    @font-face {
-        font-family: Cthulumbus;
-        src: url("AechCreations.github.io/Fonts/Titlefont.ttf") format('truetype');
-        font-style: normal;
-    }
-
     }
 
 .bttns{
-    display: grid;
-  grid-template-columns: auto auto auto;
-    border-bottom: 7px solid black;
-    background-color: #d19dfc;
-}
+        display: grid;
+      grid-template-columns: auto auto auto auto auto;
+        border-bottom: 7px solid black;
+        background-color: #d19dfc;
+        font-family: 'Lucida Console', "Lucida Console", monospace;
+        }
 .b1{
-    a:link, a:visited {
-        background-color: #000;
-        color: white;
-        padding: 4px 15px;
-        text-decoration: none;
-        display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
-    border-radius: 7px;
+        a:link, a:visited {
+            background-color: #4A3E94;
+            color: white;
+            padding: 4px 15px;
+            text-decoration: none;
+            display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 2px solid #4A3E94;
+        border-radius: 7px;
+        }
+        margin-right: 20px;
+        font-size: 30px;
+        text-align: center;
     }
-    margin-right: 20px;
-    font-size: 30px;
-    text-align: center;
-}
-
 .b2{
-    a:link, a:visited {
-        background-color: #000;
-        color: white;
-        padding: 4px 15px;
-        text-decoration: none;
-        display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
-    border-radius: 7px;
+        a:link, a:visited {
+            background-color: #4A3E94;
+            color: white;
+            padding: 4px 15px;
+            text-decoration: none;
+            display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 2px solid #4A3E94;
+        border-radius: 7px;
+        }
+        margin-right: 20px;
+        font-size: 30px;
+        text-align: center;
     }
-    margin-right: 20px;
-    font-size: 30px;
-    text-align: center;
-}
-
+    
 .b3{
-    a:link, a:visited {
-        background-color: #000;
-        color: white;
-        padding: 4px 15px;
-        text-decoration: none;
-        display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
-    border-radius: 7px;
+        a:link, a:visited {
+            background-color: #4A3E94;
+            color: white;
+            padding: 4px 15px;
+            text-decoration: none;
+            display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 2px solid #4A3E94;
+        border-radius: 7px;
+        }
+        margin-right: 20px;
+        font-size: 30px;
+        text-align: center;
     }
-
-    font-size: 30px;
-    text-align: center;
-}
-
+.b4{
+        a:link, a:visited {
+            background-color: #4A3E94;
+            color: white;
+            padding: 4px 15px;
+            text-decoration: none;
+            display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 2px solid #4A3E94;
+        border-radius: 7px;
+        }
+        margin-right: 20px;
+        font-size: 30px;
+        text-align: center;
+    }
+.b5{
+        a:link, a:visited {
+            background-color: #4A3E94;
+            color: white;
+            padding: 4px 15px;
+            text-decoration: none;
+            display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 2px solid #4A3E94;
+        border-radius: 7px;
+        }
+        font-size: 30px;
+        text-align: center;
+    }
+    
 body{
     background-color: #d19dfc;
     margin: 0px;
