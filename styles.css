@@ -1,6 +1,5 @@
 .intpage {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
+    display: flex;
     border-bottom: 7px solid #4A3E94;
     background-color: #d19dfc;
 }
@@ -8,18 +7,12 @@
 .Image{
     margin: 0 10px;
 }
-.espace{
-    opacity: 0;
-}
 .Ttext{
     text-align: center;
     font-size: 30px;
+    margin-right: 120px;
     width: 85%;
     color: #ffffff;
-    }
-
-    .espace2{
-        opacity: 0;
     }
 
 .bttns{
