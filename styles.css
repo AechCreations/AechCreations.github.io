@@ -54,7 +54,6 @@
         font-size: 30px;
         text-align: center;
     }
-    
 .b3{
         a:link, a:visited {
             background-color: #4A3E94;
@@ -102,7 +101,7 @@
         font-size: 30px;
         text-align: center;
     }
-    
+
 body{
     background-color: #d19dfc;
     margin: 0px;
@@ -117,10 +116,11 @@ body{
   border-radius: 7px;
   max-width: 95%;
   padding: 10px;
-  margin-inline: 10%;
+  margin-inline: 8%;
   margin-top: 20px;
           
   }
+
 p{
     text-align: center;
     font-family: 'Lucida Console', "Lucida Console", monospace;
