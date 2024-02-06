@@ -1,6 +1,6 @@
 .intpage {
     display: flex;
-    border-bottom: 7px solid black;
+    border-bottom: 7px solid #4A3E94;
 
 }
 
@@ -18,7 +18,7 @@
 .bttns{
         display: grid;
       grid-template-columns: auto auto auto auto auto;
-        border-bottom: 7px solid black;
+        border-bottom: 7px solid #4A3E94;
         background-color: #d19dfc;
         font-family: 'Lucida Console', "Lucida Console", monospace;
         }
