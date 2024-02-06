@@ -1,5 +1,6 @@
 .intpage {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
     border-bottom: 7px solid #4A3E94;
     background-color: #d19dfc;
 }
@@ -11,7 +12,7 @@
     text-align: center;
     font-size: 30px;
     margin-right: 110px;
-    width:85%;
+    width: 85%;
     color: #ffffff;
     }
 
