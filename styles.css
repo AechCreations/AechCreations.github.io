@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Titlefont";
+    src: url("Fonts/Titlefont.otf");
+    src: url("Fonts/Titlefont.ttf") format("woff"),
+         url("Fonts/Titlefont.otf") format("opentype"),
+  }
 .intpage {
     display: flex;
     border-bottom: 7px solid #4A3E94;
@@ -7,12 +13,13 @@
 .Hbttn{
     margin: 0 10px;
 }
-.Timage{
+.Ttext{
     text-align: center;
     font-size: 30px;
     margin-right: 120px;
     width: 85%;
     color: #ffffff;
+    font-family: Titlefont;
     }
 
 .bttns{
