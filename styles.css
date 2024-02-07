@@ -121,7 +121,7 @@ body{
 .greet{
     color: #ffffff;
     text-align: center;
-    border-bottom: 3px solid #4A3E94;
+    border-bottom: 5px solid #4A3E94;
     font-family: Titlefont;
     margin: 0px;
 
@@ -145,4 +145,5 @@ p{
     }
 h2{
     margin: 0px;
+    font-size: 30px;
 }
