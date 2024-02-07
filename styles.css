@@ -130,10 +130,10 @@ body{
           
   }
 
-  .Welcome{
+  .greet{
+    color: #ffffff;
     text-align: greet;
     border-bottom: 3px solid #4A3E94;
-    font-family: Titlefont;
   }
 p{
     text-align: center;
