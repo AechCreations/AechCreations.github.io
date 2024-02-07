@@ -130,6 +130,11 @@ body{
           
   }
 
+  .Welcome{
+    text-align: greet;
+    border-bottom: 3px solid #4A3E94;
+    font-family: Titlefont;
+  }
 p{
     text-align: center;
     font-family: 'Lucida Console', "Lucida Console", monospace;
