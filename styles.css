@@ -139,12 +139,10 @@ body{
           
   }
 
-.kbitty{
-    text-align: left;
-}
 .oatmeal{
     text-align: center;
 }
+
 p{
     text-align: center;
     font-family: 'Lucida Console', "Lucida Console", monospace;
