@@ -128,7 +128,7 @@ body{
 
 }
 
-.bodybox {
+.wbbox {
   text-align: center;
   background-color: #d19dfc;
   border: 5px solid #4A3E94;
@@ -140,9 +140,25 @@ body{
           
   }
 
-.oatmeal{
+  .clogtitle{
+    color: #ffffff;
     text-align: center;
+    border-bottom: 5px solid #4A3E94;
+    font-family: Titlefont;
+    margin: 0px;
+
 }
+  .clogbox {
+    text-align: center;
+    background-color: #d19dfc;
+    border: 5px solid #4A3E94;
+    border-radius: 13px;
+    max-width: 95%;
+    padding: 10px;
+    margin-inline: 7%;
+    margin-top: 20px;   
+    }
+
 
 p{
     text-align: center;
