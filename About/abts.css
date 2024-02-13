@@ -1,8 +1,8 @@
 @font-face {
     font-family: "Titlefont";
-    src: url("Fonts/Titlefont.otf");
-    src: url("Fonts/Titlefont.ttf") format("woff"),
-         url("Fonts/Titlefont.otf") format("opentype"),
+    src: url("aechcreations.github.io/Fonts/Titlefont.otf");
+    src: url("aechcreations.github.io/Fonts/Titlefont.ttf") format("woff"),
+         url("aechcreations.github.io/Fonts/Titlefont.otf") format("opentype"),
   }
 .intpage {
     display: flex;
@@ -115,7 +115,7 @@
 body{
     background-color: #FFB940;
     margin: 0px;
-    background-image: url(Imagess/bunnybground.GIF);
+    background-image: url(aechcreations.github.io/Imagess/bunnybground.GIF);
     
     }
 
