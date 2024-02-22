@@ -25,92 +25,32 @@
     
     }
 
-.bttns{
-        display: grid;
-      grid-template-columns: auto auto auto auto auto;
+.bttns {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
         border-bottom: 7px solid #99220B;
         background-color: #FFB940;
         font-family: 'Lucida Console', "Lucida Console", monospace;
-        }
-.b1{
-        a:link, a:visited {
-            background-color: #99220B;
-            color: white;
-            padding: 3px 10px;
-            text-decoration: none;
-            display: inline-block;
+      }
+      
+.menu-btn {
+    margin: 0 10px;
+    font-size: 30px;
+    text-align: center;
+    a:link,
+    a:visited {
+        background-color: #99220B;
+        color: white;
+        padding: 3px 10px;
+        text-decoration: none;
+        display: inline-block;
         margin-top: 10px;
         margin-bottom: 10px;
         border: 2px solid #99220B;
         border-radius: 7px;
         }
-        margin-right: 20px;
-        font-size: 30px;
-        text-align: center;
-    }
-.b2{
-        a:link, a:visited {
-            background-color: #99220B;
-            color: white;
-            padding: 3px 10px;
-            text-decoration: none;
-            display: inline-block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        border: 2px solid #99220B;
-        border-radius: 7px;
-        }
-        margin-right: 20px;
-        font-size: 30px;
-        text-align: center;
-    }
-.b3{
-        a:link, a:visited {
-            background-color: #99220B;
-            color: white;
-            padding: 3px 10px;
-            text-decoration: none;
-            display: inline-block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        border: 2px solid #99220B;
-        border-radius: 7px;
-        }
-        margin-right: 20px;
-        font-size: 30px;
-        text-align: center;
-    }
-.b4{
-        a:link, a:visited {
-            background-color: #99220B;
-            color: white;
-            padding: 3px 10px;
-            text-decoration: none;
-            display: inline-block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        border: 2px solid #99220B;
-        border-radius: 7px;
-        }
-        margin-right: 20px;
-        font-size: 30px;
-        text-align: center;
-    }
-.b5{
-        a:link, a:visited {
-            background-color: #99220B;
-            color: white;
-            padding: 3px 10px;
-            text-decoration: none;
-            display: inline-block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        border: 2px solid #99220B;
-        border-radius: 7px;
-        }
-        font-size: 30px;
-        text-align: center;
-    }
+      }
 
 body{
     background-color: #FFB940;
