@@ -79,7 +79,9 @@ body{
   margin-top: 20px;
 }
 
-
+.Poto{
+    border: 5px solid #7A2C82
+}
 
 p{
     text-align: center;
